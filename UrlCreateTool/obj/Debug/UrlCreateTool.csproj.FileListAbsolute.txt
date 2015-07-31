@@ -1,0 +1,11 @@
+E:\workInfo\UrlCreateTool\UrlCreateTool\obj\Debug\UrlCreateTool.csprojResolveAssemblyReference.cache
+E:\workInfo\UrlCreateTool\UrlCreateTool\obj\Debug\UrlCreateTool.Form1.resources
+E:\workInfo\UrlCreateTool\UrlCreateTool\obj\Debug\UrlCreateTool.Properties.Resources.resources
+E:\workInfo\UrlCreateTool\UrlCreateTool\obj\Debug\UrlCreateTool.csproj.GenerateResource.Cache
+E:\workInfo\UrlCreateTool\UrlCreateTool\bin\Debug\UrlCreateTool.exe.config
+E:\workInfo\UrlCreateTool\UrlCreateTool\bin\Debug\UrlCreateTool.exe
+E:\workInfo\UrlCreateTool\UrlCreateTool\bin\Debug\UrlCreateTool.pdb
+E:\workInfo\UrlCreateTool\UrlCreateTool\obj\Debug\UrlCreateTool.exe
+E:\workInfo\UrlCreateTool\UrlCreateTool\obj\Debug\UrlCreateTool.pdb
+E:\workInfo\UrlCreateTool\UrlCreateTool\bin\Debug\LiteDB.dll
+E:\workInfo\UrlCreateTool\UrlCreateTool\bin\Debug\LiteDB.xml

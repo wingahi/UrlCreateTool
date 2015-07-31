@@ -1,0 +1,1 @@
+﻿TemplateUrl||http://www.sjwyx.com/phone/down/$nbr-$cname/$wordpinyin/$netid/-|-FieldsAndTables||netid-netgame|nbr-pinpai1|cname-jixing|wordpinyin-brandword
